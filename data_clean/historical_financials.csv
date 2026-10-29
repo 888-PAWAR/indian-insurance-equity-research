@@ -1,2 +1,12 @@
 
 company,ticker,segment,financial_year,metric,value,unit,source_url,source_document,reported_or_calculated,notes
+
+company,ticker,segment,financial_year,metric,value,unit,source_url,source_document,reported_or_calculated,notes
+HDFC Life,HDFCLIFE,Life,FY2026,APE,16641,INR crore,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,Overall APE
+HDFC Life,HDFCLIFE,Life,FY2026,VNB,4034,INR crore,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,Value of New Business
+HDFC Life,HDFCLIFE,Life,FY2026,VNB_Margin,24.2,%,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,New business margin
+HDFC Life,HDFCLIFE,Life,FY2026,EV,62139,INR crore,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,Indian Embedded Value
+HDFC Life,HDFCLIFE,Life,FY2026,PAT,1910,INR crore,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,Profit after tax
+HDFC Life,HDFCLIFE,Life,FY2026,Solvency_Ratio,177,%,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,Solvency ratio
+HDFC Life,HDFCLIFE,Life,FY2026,Persistency_13M,85,%,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,13-month persistency
+HDFC Life,HDFCLIFE,Life,FY2026,Persistency_61M,64,%,https://nsearchives.nseindia.com/corporate/PRASAD_16042026164619_Press_release.pdf,HDFC Life FY2026 Press Release,reported,61-month persistency
